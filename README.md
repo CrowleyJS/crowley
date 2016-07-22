@@ -1,2 +1,2 @@
-# core
+# CrowleyJS
 A NodeJS Reactive Framework
